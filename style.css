@@ -1,0 +1,21 @@
+* {
+    margin:0;
+}
+
+#angeli {
+    max-width: 100%;
+    max-height: auto;
+}
+
+.ul1 {
+    text-decoration: underline;
+    color:blue
+}
+
+.flagi {
+    width: 10%;
+}
+
+.artist {
+    margin: 10%;
+}
