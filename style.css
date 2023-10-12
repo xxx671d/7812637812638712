@@ -9,13 +9,21 @@
 
 .ul1 {
     text-decoration: underline;
-    color:blue
+    color:blue;
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
 }
 
-.flagi {
-    width: 10%;
+.gradient1{
+    background-image: linear-gradient(rgb(133, 132, 132), rgb(251, 251, 250));
+
 }
 
-.artist {
-    margin: 10%;
+.jizn1 {
+    max-width: 100%;
+    max-height: auto;
+}
+
+body {
+    background-image: linear-gradient(rgb(43, 6, 255), rgb(255, 0, 0))
 }
