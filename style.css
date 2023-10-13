@@ -1,4 +1,4 @@
-* {
+.1body {
     margin:0;
 }
 
@@ -26,4 +26,52 @@
 
 body {
     background-image: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255))
+}
+
+.trupi {
+    margin-top: 5%;
+    max-width: 100%;
+}
+
+.game1 {
+    background-image: linear-gradient(rgb(84, 80, 80), rgb(225, 228, 226));
+    text-decoration:underline;
+    color:rgb(20, 19, 19);
+
+}
+
+.dron1 {
+    width: 15%;
+}
+
+.body0 {
+    background: rgb(177, 173, 173);
+    margin: 15%
+}
+
+.logo0 {
+max-width: 100%;
+}
+.logo0class {
+    margin-top: 30%;
+}
+
+.nadpis0 {
+    text-align: center;
+    margin-top:-2%;
+    margin-left: -2%;
+    font-size: 1.1rem;
+}
+
+.kart0{
+    max-width: 130%;
+    margin-left:-15%;
+    margin-top:30%
+}
+
+.vhod0{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 1.5rem;
+    margin-top: 30%;
 }
