@@ -1,4 +1,4 @@
-.1body {
+* {
     margin:0;
 }
 
@@ -74,4 +74,9 @@ max-width: 100%;
     text-decoration: underline;
     font-size: 1.5rem;
     margin-top: 30%;
+}
+
+.fotkiclass img {
+    max-width: 100%;
+    margin-top: -1.1%;
 }
